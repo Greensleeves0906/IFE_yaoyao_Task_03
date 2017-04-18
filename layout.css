@@ -1,0 +1,16 @@
+div{
+    width: 500px;
+    margin:20px auto;
+}
+div#stuForm select{
+    height: 30px;
+    width: 200px;
+    border-radius:4px;
+    border:1px solid #c8cccf;
+}
+div#notStuForm input{
+    height: 30px;
+    width: 400px;
+    border-radius:4px;
+    border:1px solid #c8cccf;
+}
